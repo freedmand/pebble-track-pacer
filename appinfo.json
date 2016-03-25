@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "freedmand@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Track Pacer",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Track Pacer",
+    "uuid": "2e2de7a0-f5a0-4f09-b212-6efc3bbed7ff",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
